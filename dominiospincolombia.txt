@@ -1,4 +1,3 @@
-/ip firewall address-list
 0.0.0.0 little-models.site
 0.0.0.0 gamiliyata.xyz
 0.0.0.0 amateurc.top
