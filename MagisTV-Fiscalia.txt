@@ -226,5 +226,6 @@
 0.0.0.0 tvflujolatino.com
 0.0.0.0 tvmagis.ai
 0.0.0.0 magistvs.net
+0.0.0.0 magistvoficial.com.pe
 
 
