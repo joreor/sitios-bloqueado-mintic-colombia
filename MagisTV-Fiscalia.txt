@@ -228,7 +228,7 @@
 0.0.0.0 magistvs.net
 0.0.0.0 magistvoficial.com.pe
 0.0.0.0 comprarmagistv.pro
-
+0.0.0.0 voxpopuli.digital
 
 
 
